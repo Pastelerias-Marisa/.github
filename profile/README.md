@@ -33,13 +33,13 @@ Nuestro objetivo es que la tecnología **simplifique el trabajo de las personas*
 
 ## 🛠️ Tecnologías con las que trabajamos
 
-| Área | Herramientas y tecnologías |
+| Área |
 | --- | --- |
-| Desarrollo y APIs | Python, Django, Flask, PHP, JavaScript, Vue.js |
-| Datos | MariaDB, SQL |
-| Infraestructura | Linux, Docker, Ansible, virtualización |
-| CI/CD y colaboración | Git, GitHub, GitHub Actions |
-| Monitoreo | Zabbix y herramientas de observabilidad |
+| Desarrollo y APIs | 
+| Datos |
+| Infraestructura |
+| CI/CD y colaboración |
+| Monitoreo |
 
 *Las tecnologías pueden variar según el proyecto y sus necesidades.*
 
