@@ -34,7 +34,7 @@ Nuestro objetivo es que la tecnología **simplifique el trabajo de las personas*
 ## 🛠️ Tecnologías con las que trabajamos
 
 | Área |
-| --- | --- |
+| --- |
 | Desarrollo y APIs | 
 | Datos |
 | Infraestructura |
